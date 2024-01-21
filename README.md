@@ -12,8 +12,8 @@
 - 📫 How to reach me **houssemfarid57@gmail.com**
 - 👨‍💻 All of my projects will be available **here in the next days**
 - ⚡ Fun fact **i try to have fun as much as i can**
-
-- <!--- snake -->
+  
+<!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
