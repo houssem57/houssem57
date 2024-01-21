@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houssem57&theme=onestar" alt="houssem57" /></a> </p>
 
-- 🔭 I’m currently working on **raspberry pi pico w car robot project with micropython**
+- 🔭 I’m currently working on **raspberry pi pico W car robot project with micropython**
 - 👯 I’m looking to collaborate on **Csharp projects**
 - 🌱 I’m currently learning **Projectmanagement **
 - 💬 Ask me about **anything, i will be happy when i can help you**
