@@ -13,11 +13,6 @@
 - 👨‍💻 All of my projects will be available **here in the next days**
 - ⚡ Fun fact **i try to have fun as much as i can**
   
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <div> <a href="https://github.com/houssem57" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -62,8 +57,5 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=houssem57&theme=react"/>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/houssemfarid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="houssemfarid" /></a></p><br><br>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
