@@ -3,7 +3,7 @@
 <h3 align="center">a Software Developer in Hamburg Germany</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=houssem57&label=Profile%20views&color=0e75b6&style=flat" alt="houssem57" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houssem57&theme=onestar" alt="houssem57" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 👯 I’m looking to collaborate on **Csharp projects**
 - 🌱 I’m currently learning **WebAPI **
